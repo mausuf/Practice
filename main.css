@@ -1,12 +1,20 @@
 .styleform {
     align-content: center;
-    color: red;
+    color:cadetblue;
     text-shadow: 30px;
 }
 
-body {
-    background-image: url(https://cml.ssl.fastly.net/0.1.0/ps/1459525/580/386/m1/fpnw/wm0/set-of-memphis-seamless-patterns-prw-3-.jpg?1468762287&s=acfc262d463cd53088e59ed60ad4b07e);
+header{
+    background-color: #333333;
+}
 
+.h1 {
+    color: #eee;
+    font-size: 28px;
+}
+
+body {
+background-color: #333333;
 }
 
 img {
@@ -14,6 +22,6 @@ img {
 }
 
 .section1 {
-    background-color: sandybrown
+    background-color: cadetblue
 }
 
